@@ -27,3 +27,7 @@ The focus is on validating data accuracy, completeness, and consistency across E
 - Regression testing after pipeline updates
 
 ## Folder Structure
+- datasets/ : Sample source and target datasets used for validation
+- scripts/  : PySpark scripts for data quality and validation checks
+- README.md : Project documentation
+
